@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e85182-2a59-443a-a646-54398ab17310" name="Default Changelist" comment="">
+    <list default="true" id="23e85182-2a59-443a-a646-54398ab17310" name="Default Changelist" comment="增加了main函数，并输出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603894304010</updated>
-      <workItem from="1603894306513" duration="200000" />
+      <workItem from="1603894306513" duration="520000" />
     </task>
+    <task id="LOCAL-00001" summary="增加了main函数，并输出">
+      <created>1603894639767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603894639767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加了main函数，并输出">
+      <created>1603894706650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603894706650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加了main函数，并输出">
+      <created>1603894735572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603894735572</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加了main函数，并输出" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了main函数，并输出" />
   </component>
 </project>
